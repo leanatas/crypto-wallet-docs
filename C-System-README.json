@@ -1,0 +1,16 @@
+{
+    "repository": "leanatas/c-System-OS",
+    "type": "master",
+    "ens_link": "https://leanatas.eth.limo",
+    "main_branch": "main",
+    "modules": [
+        "swap",
+        "wallet",
+        "ai",
+        "site"
+    ],
+    "last_update": "2025-03-22T10:49:26.189737",
+    "admin": "Admin C",
+    "security_level": "MAX",
+    "execution_protocol": "manual/confirmed"
+}
